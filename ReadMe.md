@@ -1,11 +1,11 @@
-# s3ThumbnalResizer
+# s3ThumbnailResizer
 
 Out of boredom and because of programming I created a thumbnail resizer which resize the image based on the width and length of your choice. It gives you also
 and option to upload in to s3 and dynamo db for the metadata of the image.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![Alt text](https://medium.com/better-programming/learning-golang-in-24-hours-ec7bb5e24c78?raw=true "Title")
 
 ### Prerequisites
 
