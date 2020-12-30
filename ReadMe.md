@@ -1,10 +1,7 @@
-go get -u github.com/jmespath/go-jmespath
-go get -u github.com/aws/aws-sdk-go/aws
-go get -u github.com/nfnt/resize
+# s3ThumbnalResizer
 
-# Project Title
-
-One Paragraph of project description goes here
+Out of boredom and because of programming I created a thumbnail resizer which resize the image based on the width and length of your choice. It gives you also
+and option to upload in to s3 and dynamo db for the metadata of the image.
 
 ## Getting Started
 
