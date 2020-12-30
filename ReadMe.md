@@ -5,7 +5,7 @@ and option to upload in to s3 and dynamo db for the metadata of the image.
 
 ## Getting Started
 
-I basically used cloud for this mini-project, using Lanczos3 https://en.wikipedia.org/wiki/Lanczos_resampling resizer
+I basically used cloud for this mini-project,  using Lanczos3 https://en.wikipedia.org/wiki/Lanczos_resampling resizer
 
 
 ### Prerequisites
@@ -18,9 +18,9 @@ Library used
 
 ## Deployment
 
-cd to your project folder
-go build -o <tag/name>
-./<tag/name>
+cd to your project folder 
+go build -o <tag/name> 
+./<tag/name> 
 
 ## Built With
 
