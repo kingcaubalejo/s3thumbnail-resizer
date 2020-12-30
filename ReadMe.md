@@ -1,7 +1,7 @@
 # s3ThumbnailResizer
 
-Out of boredom and procastination. I created a thumbnail resizer which resize the image based on the width and length of your choice. It gives you also
-and option to upload in to s3 and dynamo db for the metadata of the image.
+Out of boredom and procastination. I created a thumbnail resizer, which resize the image based on the width and length of your choice. It also gives you
+an option to upload it to s3 and dynamo db for the metadata of the image.
 
 ## Getting Started
 
