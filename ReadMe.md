@@ -18,9 +18,9 @@ Library used
 
 ## Deployment
 
-cd to your project folder 
-go build -o <tag/name> 
-./<tag/name> 
+cd to your project folder<br/>
+go build -o name <br/>
+./name <br/> 
 
 ## Built With
 
